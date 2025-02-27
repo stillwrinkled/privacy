@@ -1,6 +1,6 @@
 # Privacy Policy for Percentage Calculator Extension
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 02/27/2025
 
 ## **1. Data Collection & Usage**
 - This extension **does not collect, store, or share any user data**.
@@ -15,5 +15,5 @@
 - No external servers, APIs, or third-party services are used.
 
 ## **4. Contact**
-If you have any questions, please contact us at: **[Your Email]**
+If you have any questions, please contact us at: **abhiab9@gmail.com**
 
